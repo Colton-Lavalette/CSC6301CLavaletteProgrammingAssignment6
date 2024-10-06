@@ -49,14 +49,14 @@ This repository contains multiple Java projects for Assignment 6, which includes
 ## Project 4
 - After running project 4, you will be prompted to enter the number of elements for the linked list.
 - Enter a positive integer when prompted.
-- Next, you will be asked to enter the elements one by one.
+- Next, you will be asked to enter the elements of the linked list one by one.
 - After entering all elements, the program will sort them and display the sorted linked list.
 
 ## Project 5
-- After running project 5, you will be prompted to enter the number of elements for the linked list.
+- After running project 5, you will be prompted to enter the number of elements for the stack.
 - Enter a positive integer when prompted.
-- Next, you will be asked to enter the elements one by one.
-- After entering all elements, the program will sort them and display the sorted linked list.
+- Next, you will be asked to enter the elements of the stack one by one.
+- After entering all elements, the program will sort them and display the sorted stack.
 
 ## Author
 Colton Lavalette
